@@ -104,12 +104,10 @@ Cette requête utilise les fonctions géospatiales de BigQuery (`ST_GEOGPOINT`, 
 
 ```
 sp95-meurthe-moselle/
-├── README.md              ← Ce fichier
-├── sql/
-│   └── queries.sql        ← Toutes les requêtes SQL commentées
-└── screenshots/
-    ├── dashboard-sketch.png
-    └── dashboard-final.png  ← À ajouter quand disponible
+├── README.md              
+├── queries.sql               
+└── dashboard.png
+
 ```
 
 ---
