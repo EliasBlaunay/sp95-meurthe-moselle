@@ -24,7 +24,7 @@ Le dashboard permet de :
 - Filtrer la **table des stations** par prix SP95 et distance depuis un point de référence
 - Identifier **en un coup d'œil** la station la plus économique à proximité
 
-![Croquis du dashboard](screenshots/dashboard-sketch.png)
+![Dashboard SP95](dashboard.png)
 
 ---
 
